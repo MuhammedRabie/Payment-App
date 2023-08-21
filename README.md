@@ -2,12 +2,12 @@
 Payment systems are now available everywhere and everyone interacts with these systems every day.
 There are different types of transactions you can make, SALE, REFUND, Pre-Authorization, and VOID.
 
-SALE: means to buy something and its price will be deducted from your bank account.
-REFUND: this means that you will return something and wants your money back to your bank account.
-Pre-Authorization: means holding an amount of money from your account, e.g Hotel reservation.
-VOID: this means canceling the transaction, e.g if the seller entered the wrong amount.
-
-Implemented the SALE transaction only by simulating the card, terminal(ATM), and the server.
+- SALE: means to buy something and its price will be deducted from your bank account.
+- REFUND: this means that you will return something and wants your money back to your bank account.
+- Pre-Authorization: means holding an amount of money from your account, e.g Hotel reservation.
+- VOID: this means canceling the transaction, e.g if the seller entered the wrong amount.
+  
+I Implemented the SALE transaction only by simulating the card, terminal(ATM), and the server.
 # Project flow chart 
 ![183305187-4d1241fb-fa97-4daf-8a6b-a1f41a540ac7](https://github.com/MuhammedRabie/Payment-App/assets/66913233/3b3bfcd2-179b-4f67-9cdd-75f5b58184a5)
 # Functions
