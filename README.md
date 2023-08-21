@@ -16,7 +16,7 @@ only a part not all :
 - getTransactionDate(): asks user to enter Date with format [YYYY/MM/DD] or retreives current system date.
 - saveTransaction():Saves APPROVED transactions in transactions.txt file.
 - updateBalance(): Updates Balance after each transaction and stores new balance in accounts.txt .
-  #Test Cases
+# Test Cases
 1. Transaction approved user story.
 As a bank customer have an account and has a valid and not expired card, I want to withdraw an amount of money less than the maximum allowed and less than or equal to the amount in my balance, so that I am expecting that the transaction is approved and my account balance is reduced by the withdrawn amount.
 
